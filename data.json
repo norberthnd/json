@@ -1,0 +1,18 @@
+[
+  "ford": [
+    { 
+      "model": "mustang",
+      "year": "1964"
+    },
+    { 
+      "model": "mustang",
+      "year": "1964"
+    },
+  ],
+  "chevrolet": [
+    {
+      "model": "aasf",
+      "year": "1988"
+    }
+  ]
+]
